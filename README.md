@@ -11,3 +11,7 @@ This project demonstrates a simple daily check-in mechanism using a smart contra
 - Base Sepolia
 - Base Mainnet
 Initial commit: add project README
+## Future Improvements
+- Add frontend UI
+- Emit events on check-in
+- Integrate with Base indexers
